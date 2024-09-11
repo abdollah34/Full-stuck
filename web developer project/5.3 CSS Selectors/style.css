@@ -1,0 +1,36 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+.note{
+  color: red;
+  text-align: center;
+}
+.note[value="2"]{
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+#id-selector-demo{
+  color: green;
+  text-align: center;
+}
+.note[value="4"]{
+  color:blue;
+  text-align: center;
+}
+.note[value="5"]{
+  color:black;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+*{
+  text-align: center;
+}
+/* Write your CSS below, don't change the rules above. */

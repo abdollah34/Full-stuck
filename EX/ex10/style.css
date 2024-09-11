@@ -1,0 +1,11 @@
+color: white;
+border: 5px solid gold;
+display: flex;
+flex-direction: column;
+width: 50px;
+}
+.container>*{
+flex-basis: 90px;
+.html{
+    color: honeydew;
+}
